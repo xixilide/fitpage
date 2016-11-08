@@ -7,10 +7,10 @@ header{
 }
 
 .nav{
-	
+
 	height: 62px;
 	border-bottom: 1px #e4e4e4 solid;
-	
+
 }
 .nav_inner{
 	width: 963px;
@@ -46,7 +46,7 @@ header{
 	height: 138px;
 	margin: 0 auto;
 	background: #f8f8f8;
- 
+
 }
 .logo_img{
 	width: 214px;
@@ -71,7 +71,7 @@ header{
 	width: 963px;
 	height: 57px;
 	margin: 0 auto;
-	
+
 }
 .banner_top ul li{
 	width: 310px;
@@ -89,7 +89,7 @@ header{
 	color: #fff;
 	text-indent: -9999px;
 	overflow: hidden;
-	
+
 }
 .left{
 	width: 310x;
@@ -142,7 +142,7 @@ header{
 	width: 213px;
 	height: 213px;
 	margin-left: 42px;
-	margin-top: 80px;
+	margin-top: 60px;
 	float: left;
 }
 .banner_left h2{
@@ -162,7 +162,7 @@ header{
 .button{
 	width: 172px;
 	height: 42px;
-	margin-top: 52px;
+	margin-top: 42px;
 	border: 1px solid #df5900;
 	font-family: arial;
 	text-align: center;
@@ -179,7 +179,7 @@ header{
 	margin-top: 20px;
 }
 section{
-	
+
 	height: 809px;
 	background: #f4f4f4;
 }
@@ -196,7 +196,7 @@ section{
 .main_left_top{
 	height: 350px;
 	width: 250px;
-	
+
 }
 .main_left_top h4{
 	font-size: 20px;
@@ -211,7 +211,7 @@ section{
 	background: url(../images/li_03.jpg) no-repeat 0 4px;
 	list-style-position: inside;
 	padding-left: 16px;
-	margin-top: 20px; 
+	margin-top: 20px;
 	font-size: 12px;
 }
 .main_left_top ul li a{
@@ -223,7 +223,7 @@ section{
 	width: 250px;
 	height: 412px;
 	margin-top: 42px;
-	
+
 }
 .main_left_bottom h4{
 	color: #000;
@@ -268,7 +268,7 @@ section{
 	height: 147px;
 	margin-top: 20px;
 	margin-left: 22px;
-	
+
 
 }
 .text p{
@@ -369,7 +369,7 @@ section{
 }
 .hp p a{
 	text-decoration: none;
-	color: #da3400; 
+	color: #da3400;
 }
 footer{
 	height: 128px;
@@ -391,7 +391,7 @@ footer h6{
 
 }
 footer h6 a{
-	
+
 	color: #da3400;
 	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
 
